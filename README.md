@@ -1,5 +1,5 @@
 Creating a coffee app.
-It will be CoffeeApp.swift, coffee.swift, contentView.swift, orderSummaryView.swift, Cart.swift, CoffeeDetailView.swift, CoffeeListView.swift.
+It will be CoffeeApp.swift (in the coffeeApp file), coffee.swift, contentView.swift, orderSummaryView.swift, Cart.swift, CoffeeDetailView.swift, CoffeeListView.swift.
 Choose an ice or hot option for the coffee app. 
 Click on the add to cart. 
 You can check on the cart and see what you order and how much it will cost you. 
